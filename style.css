@@ -15,16 +15,16 @@ body {
     grid-template-rows: 3fr,1fr,1fr,1fr,1fr,1fr,1fr,1fr,1fr,1fr;
     grid-gap:0.2rem;
     grid-template-areas: 
-    "nav nav nav nav"
-    "main main main main"
-    "back back back back"
-    "about about about about"
-    "paper_publications paper_publications paper_publications paper_publications"
-    "award award award award"
-    "hobbies hobbies hobbies hobbies"
-    "collection collection collection collection"
-    "blogs blogs blogs blogs"
-    "footer footer footer footer"
+    "nav nav"
+    "main main"
+    "back back"
+    "about about"
+    "paper_publications paper_publications"
+    "award award"
+    "hobbies hobbies"
+    "collection collection"
+    "blogs blogs"
+    "footer footer"
 }
 h3{
     font-size: 24px;
